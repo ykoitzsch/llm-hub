@@ -7,6 +7,8 @@ https://www.llamaindex.ai/
 
 https://haystack.deepset.ai/
 
+https://github.com/neuml/txtai
+
 ## Multi Agent Orchestration 
 https://python.langchain.com/v0.1/docs/langgraph/
 
@@ -21,3 +23,11 @@ https://lightning.ai/
 https://hub.guardrailsai.com/
 
 https://github.com/microsoft/presidio
+
+## Optimization & Evaluation
+https://github.com/Marker-Inc-Korea/AutoRAG
+
+https://docs.ragas.io/en/stable/
+
+
+
